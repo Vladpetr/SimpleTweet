@@ -39,4 +39,5 @@
         android:autoLink="all"
         android:linksClickable="true"
         tools:text="This is my tweet!" />
+
 </RelativeLayout>
